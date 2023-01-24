@@ -1,3 +1,3 @@
 # generateLongFunctionInPython
-for run this project just run this command:
+run this code by this command:
 **`python3 main.py`**
